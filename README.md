@@ -48,6 +48,6 @@ Please make sure to update tests as appropriate.
 
 
 
-## Examples (additional)
+## Examples ("additional")
 
 https://github.com/matiassingers/awesome-readme
