@@ -1,4 +1,7 @@
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+# Example:
+
 # Contributing
 
 When contributing a major change to this repository, please first discuss the
