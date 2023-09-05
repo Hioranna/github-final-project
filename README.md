@@ -45,3 +45,9 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+## Examples
+
+https://github.com/matiassingers/awesome-readme
